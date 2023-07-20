@@ -6,6 +6,8 @@ Updated website with HTML Semantics to provide web accessibility to ensure that 
     
     -added a header and footer section
     -add alt tags to all images
+    -removed the header class and edited the CSS stlye sheet accordingly
+    -removed footer class and edited the CSS style sheet accordingly
 
 ## Usage
 
