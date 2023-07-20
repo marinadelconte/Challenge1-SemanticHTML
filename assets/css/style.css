@@ -31,6 +31,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /* Consolidated section for ul */
 header nav ul li {
     display: inline-block;
@@ -95,10 +96,13 @@ p {
 }
 
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /*
 .benefit-brand {
     margin-bottom: 32px;
@@ -130,6 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 /*
 .benefit-lead img {
     display: block;
@@ -175,6 +180,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /*
 .search-engine-optimization img {
     max-height: 200px;
