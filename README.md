@@ -20,9 +20,6 @@ Updated website with HTML Semantics to provide web accessibility to ensure that 
 
 The updated website is launched and can be accessed via the following link:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
