@@ -19,7 +19,10 @@ Updated website with HTML Semantics to provide web accessibility to ensure that 
 ## Usage
 
 The updated website is launched and can be accessed via the following link:
+https://marinadelconte.github.io/Challenge1-SemanticHTML/ 
 
+Below is a screenshot of the page:
+![Screenshot (1)](https://github.com/marinadelconte/Challenge1-SemanticHTML/assets/137957098/fd567ad9-b284-4ce1-8b02-39df529cd555)
 
 ## Credits
 
