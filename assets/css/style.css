@@ -31,14 +31,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-header nav ul {
-    list-style-type: none;
-}
-
+/* Consolidated section for ul */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 a {
@@ -187,7 +184,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Consolidated footer section */
 footer {
     padding: 30px;
     clear: both;

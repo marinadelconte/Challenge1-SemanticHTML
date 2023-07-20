@@ -2,29 +2,14 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Updated website with HTML Semantics to provide web accessibility to ensure that individuals with disabilities can access the site. The following changes were made in order to improve accessibility:
+    
+    -added a header and footer section
+    -add alt tags to all images
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The updated website is launched and can be accessed via the following link:
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
@@ -32,8 +17,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I used the following sources to read about semantic HTML to work on this project:
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://web.dev/learn/html/semantic-html/
+https://html.com/blog/html-5-cheat-sheets/
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
