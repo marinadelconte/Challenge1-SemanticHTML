@@ -15,7 +15,6 @@ Updated website with HTML Semantics to provide web accessibility to ensure that 
     -condensed lines of CSS code to group classes under one command
     -added an id tag to "social-media-marketing" so that the link would have an anchor like the other links at the top of the page
 
-
 ## Usage
 
 The updated website is launched and can be accessed via the following link:
@@ -31,7 +30,4 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 https://web.dev/learn/html/semantic-html/
 https://html.com/blog/html-5-cheat-sheets/
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
-
-Contact: Marina Del Conte
-Email: marinadelconte@yahoo.com
 
