@@ -26,8 +26,12 @@ Below is a screenshot of the page:
 ## Credits
 
 I used the following sources to read about semantic HTML and CSS to work on this project:
+
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
 https://web.dev/learn/html/semantic-html/
+
 https://html.com/blog/html-5-cheat-sheets/
+
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 
